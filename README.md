@@ -1,2 +1,2 @@
-# 2025_04_16_DuckArtXR
+# 2025_04_16_ChickArtXR
 Canard de formation Charleroi
