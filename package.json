@@ -1,7 +1,7 @@
 
 {                                                                                
-  "name": "be.elab.techochickarxr",                              
-  "displayName": "Duck Art XR",                        
+  "name": "be.elab.techochickartxr",                              
+  "displayName": "Chick Art XR",                        
   "version": "0.0.1",                         
   "unity": "2018.1",                             
   "unityRelease": "",                             
@@ -17,7 +17,7 @@
     }
   ] ,     
   "author" : {
-"name":"",
+"name":"Eloi Stree",
 "mail":"",
 "url":""},     
   "repository":{
